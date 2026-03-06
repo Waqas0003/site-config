@@ -1,0 +1,18 @@
+{
+  "wick_finder": {
+    "enabled": true,
+    "maintenance_mode": false,
+    "alert": {
+      "active": false,
+      "type": "info",
+      "message": ""
+    }
+  },
+  "site_alert": {
+    "active": false,
+    "type": "info",
+    "message": "",
+    "dismissible": true,
+    "pages": "all"
+  }
+}
