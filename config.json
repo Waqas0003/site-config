@@ -3,15 +3,15 @@
     "enabled": false,
     "maintenance_mode": false,
     "alert": {
-      "active": false,
+      "active": true,
       "type": "info",
-      "message": ""
+      "message": "hi this"
     }
   },
   "site_alert": {
-    "active": false,
+    "active": true,
     "type": "info",
-    "message": "",
+    "message": "Hi this is me",
     "dismissible": true,
     "pages": "all"
   }
