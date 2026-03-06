@@ -2,6 +2,7 @@
   "wick_finder": {
     "enabled": true,
     "maintenance_mode": false,
+    "maintenance_message": "",
     "alert": {
       "active": false,
       "type": "info",
@@ -12,7 +13,16 @@
     "active": false,
     "type": "info",
     "message": "",
-    "dismissible": true,
-    "pages": "all"
+    "dismissible": true
+  },
+  "body_classes": [],
+  "custom_css": "",
+  "hide_elements": [],
+  "footer_banner": {
+    "active": false,
+    "message": "",
+    "bg_color": "#3a3028",
+    "text_color": "#ffffff",
+    "dismissible": true
   }
 }
