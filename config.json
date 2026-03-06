@@ -1,6 +1,6 @@
 {
   "wick_finder": {
-    "enabled": false,
+    "enabled": true,
     "maintenance_mode": false,
     "alert": {
       "active": true,
